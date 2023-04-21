@@ -1,0 +1,2 @@
+# solitaire
+In sveltekit
